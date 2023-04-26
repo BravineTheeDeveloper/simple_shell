@@ -1,4 +1,4 @@
-#iclude "shell.h"
+#include "shell.h"
 
 /* global variable for ^C handling */
 unsigned int sig_flag;
